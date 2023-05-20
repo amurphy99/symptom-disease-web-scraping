@@ -1,3 +1,6 @@
+# mac
+.DS_Store
+
 # data files
 pages.sql
 all_urls.txt
