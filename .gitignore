@@ -1,3 +1,10 @@
+# data files
+pages.sql
+all_urls.txt
+sd_data.sql
+data/all_urls.txt
+data/sd_data.sql
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
