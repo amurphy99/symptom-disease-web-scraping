@@ -1,6 +1,6 @@
 # Data Scraping for SymptomSifter
 
-This repository contains the web scraping code used to gather data for SymptomSifter, a tool that facilitates symptom and disease matching based on data sourced from [MedlinePlus.gov](https://medlineplus.gov/encyclopedia.html). The code extracts relevant information from the website to build a database of known diseases and their associated symptoms.
+This repository contains the web scraping code used to gather data for [SymptomSifter](https://andrewemurphy.com/sd/select), a tool that facilitates symptom and disease matching based on data sourced from [MedlinePlus.gov](https://medlineplus.gov/encyclopedia.html). The code extracts relevant information from the website to build a database of known diseases and their associated symptoms.
 
 ## Data Source
 
